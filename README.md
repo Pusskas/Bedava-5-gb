@@ -1,4 +1,3 @@
-# Bedava-5-gb
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -37,20 +36,4 @@
             10% { transform: translate(-1px, -2px) rotate(-1deg); }
             20% { transform: translate(-3px, 0px) rotate(1deg); }
             30% { transform: translate(3px, 2px) rotate(0deg); }
-            100% { transform: translate(1px, 1px) rotate(0deg); }
-        }
-        @keyframes explode {
-            0% { transform: scale(1); }
-            50% { transform: scale(1.5); opacity: 0.8; }
-            100% { transform: scale(1); }
-        }
-    </style>
-</head>
-<body>
-    <div class="emoji">🍆💥</div>
-    <h1>YARRAAAK BU KURŞUN İNTERNETİ 😂😂😂<br>
-    malik yine yaptı yapacağını<br>
-    siktir git reset at modeme  😂</h1>
-    <p style="font-size: 3vw; margin-top: 40px;">(Şaka lan şaka, internetin sağlam, sadece sen trolledin)</p>
-</body>
-</html>
+            100% { transform: translate
