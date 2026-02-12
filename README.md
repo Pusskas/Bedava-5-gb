@@ -49,8 +49,8 @@
 <body>
     <div class="emoji">🍆💥</div>
     <h1>YARRAAAK BU KURŞUN İNTERNETİ 😂😂😂<br>
-    Mehmet yine yaptı yapacağını<br>
-    siktir git reset at modeme piç 😂</h1>
+    malik yine yaptı yapacağını<br>
+    siktir git reset at modeme  😂</h1>
     <p style="font-size: 3vw; margin-top: 40px;">(Şaka lan şaka, internetin sağlam, sadece sen trolledin)</p>
 </body>
 </html>
